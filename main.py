@@ -2,6 +2,14 @@ import pyautogui as p
 from PIL import Image, ImageGrab
 import time
 
+'''
+Use chrome://dino/
+then press space to play
+
+now run this script. :)
+
+'''
+
 def hit(key):
 	p.keyDown(key)
 	return 
