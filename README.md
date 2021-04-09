@@ -21,4 +21,4 @@
 
 
 
-[NOTE: *Installation and Start Executable will soon be updated.*]
+[NOTE: *Installation and Start Executable files will soon be updated.*]
