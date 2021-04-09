@@ -1,8 +1,8 @@
 # Dino Game - Automate Python
 
-###The chrome dino game is pretty cool :upside_down_face:, right. but at some point we lose.
-###Like it has to :stuck_out_tongue_closed_eyes: Don't worry I got you. 
-###In this Python Script using *pyautogui*, *PIP* library. We can automate the dino game.
+### The chrome dino game is pretty cool :upside_down_face:, right. but at some point we lose.
+### Like it has to :stuck_out_tongue_closed_eyes: Don't worry I got you. 
+### In this Python Script using *pyautogui*, *PIP* library. We can automate the dino game.
 
 
 
