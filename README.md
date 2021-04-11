@@ -16,7 +16,7 @@
 ## To Start playing, there are such steps :
 
 
-### 1.Open chrome -> hit the `chrome://dino/` and `press space to start`
+### 1.Open chrome -> hit the `chrome://dino/` and `press space to start` then `Run the python script`
 ![Start](https://user-images.githubusercontent.com/64283478/114218195-bb2eb580-9986-11eb-9dd6-4d027b141050.PNG)
 
 
